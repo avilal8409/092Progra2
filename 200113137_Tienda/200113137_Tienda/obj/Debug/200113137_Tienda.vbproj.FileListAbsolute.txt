@@ -1,0 +1,13 @@
+C:\Users\avila\Desktop\200113137_Tienda\200113137_Tienda\bin\Debug\200113137_Tienda.exe.config
+C:\Users\avila\Desktop\200113137_Tienda\200113137_Tienda\bin\Debug\200113137_Tienda.exe
+C:\Users\avila\Desktop\200113137_Tienda\200113137_Tienda\bin\Debug\200113137_Tienda.pdb
+C:\Users\avila\Desktop\200113137_Tienda\200113137_Tienda\bin\Debug\200113137_Tienda.xml
+C:\Users\avila\Desktop\200113137_Tienda\200113137_Tienda\obj\Debug\200113137_Tienda.vbproj.AssemblyReference.cache
+C:\Users\avila\Desktop\200113137_Tienda\200113137_Tienda\obj\Debug\200113137_Tienda.vbproj.SuggestedBindingRedirects.cache
+C:\Users\avila\Desktop\200113137_Tienda\200113137_Tienda\obj\Debug\_200113137_Tienda.Form1.resources
+C:\Users\avila\Desktop\200113137_Tienda\200113137_Tienda\obj\Debug\_200113137_Tienda.Resources.resources
+C:\Users\avila\Desktop\200113137_Tienda\200113137_Tienda\obj\Debug\200113137_Tienda.vbproj.GenerateResource.cache
+C:\Users\avila\Desktop\200113137_Tienda\200113137_Tienda\obj\Debug\200113137_Tienda.vbproj.CoreCompileInputs.cache
+C:\Users\avila\Desktop\200113137_Tienda\200113137_Tienda\obj\Debug\200113137_Tienda.exe
+C:\Users\avila\Desktop\200113137_Tienda\200113137_Tienda\obj\Debug\200113137_Tienda.xml
+C:\Users\avila\Desktop\200113137_Tienda\200113137_Tienda\obj\Debug\200113137_Tienda.pdb
