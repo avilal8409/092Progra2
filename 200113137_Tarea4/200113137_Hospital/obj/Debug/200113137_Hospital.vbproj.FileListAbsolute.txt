@@ -1,0 +1,13 @@
+C:\Users\avila\Desktop\200113137_Tarea4\200113137_Hospital\bin\Debug\200113137_Hospital.exe.config
+C:\Users\avila\Desktop\200113137_Tarea4\200113137_Hospital\bin\Debug\200113137_Hospital.exe
+C:\Users\avila\Desktop\200113137_Tarea4\200113137_Hospital\bin\Debug\200113137_Hospital.pdb
+C:\Users\avila\Desktop\200113137_Tarea4\200113137_Hospital\bin\Debug\200113137_Hospital.xml
+C:\Users\avila\Desktop\200113137_Tarea4\200113137_Hospital\obj\Debug\200113137_Hospital.vbproj.AssemblyReference.cache
+C:\Users\avila\Desktop\200113137_Tarea4\200113137_Hospital\obj\Debug\200113137_Hospital.vbproj.SuggestedBindingRedirects.cache
+C:\Users\avila\Desktop\200113137_Tarea4\200113137_Hospital\obj\Debug\_200113137_Hospital.Form1.resources
+C:\Users\avila\Desktop\200113137_Tarea4\200113137_Hospital\obj\Debug\_200113137_Hospital.Resources.resources
+C:\Users\avila\Desktop\200113137_Tarea4\200113137_Hospital\obj\Debug\200113137_Hospital.vbproj.GenerateResource.cache
+C:\Users\avila\Desktop\200113137_Tarea4\200113137_Hospital\obj\Debug\200113137_Hospital.vbproj.CoreCompileInputs.cache
+C:\Users\avila\Desktop\200113137_Tarea4\200113137_Hospital\obj\Debug\200113137_Hospital.exe
+C:\Users\avila\Desktop\200113137_Tarea4\200113137_Hospital\obj\Debug\200113137_Hospital.xml
+C:\Users\avila\Desktop\200113137_Tarea4\200113137_Hospital\obj\Debug\200113137_Hospital.pdb
