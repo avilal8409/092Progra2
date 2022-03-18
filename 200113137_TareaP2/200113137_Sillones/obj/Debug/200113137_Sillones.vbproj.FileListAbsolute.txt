@@ -1,0 +1,13 @@
+C:\Users\avila\Desktop\200113137_TareaP2\200113137_Sillones\bin\Debug\200113137_Sillones.exe.config
+C:\Users\avila\Desktop\200113137_TareaP2\200113137_Sillones\bin\Debug\200113137_Sillones.exe
+C:\Users\avila\Desktop\200113137_TareaP2\200113137_Sillones\bin\Debug\200113137_Sillones.pdb
+C:\Users\avila\Desktop\200113137_TareaP2\200113137_Sillones\bin\Debug\200113137_Sillones.xml
+C:\Users\avila\Desktop\200113137_TareaP2\200113137_Sillones\obj\Debug\200113137_Sillones.vbproj.AssemblyReference.cache
+C:\Users\avila\Desktop\200113137_TareaP2\200113137_Sillones\obj\Debug\200113137_Sillones.vbproj.SuggestedBindingRedirects.cache
+C:\Users\avila\Desktop\200113137_TareaP2\200113137_Sillones\obj\Debug\_200113137_Sillones.Form1.resources
+C:\Users\avila\Desktop\200113137_TareaP2\200113137_Sillones\obj\Debug\_200113137_Sillones.Resources.resources
+C:\Users\avila\Desktop\200113137_TareaP2\200113137_Sillones\obj\Debug\200113137_Sillones.vbproj.GenerateResource.cache
+C:\Users\avila\Desktop\200113137_TareaP2\200113137_Sillones\obj\Debug\200113137_Sillones.vbproj.CoreCompileInputs.cache
+C:\Users\avila\Desktop\200113137_TareaP2\200113137_Sillones\obj\Debug\200113137_Sillones.exe
+C:\Users\avila\Desktop\200113137_TareaP2\200113137_Sillones\obj\Debug\200113137_Sillones.xml
+C:\Users\avila\Desktop\200113137_TareaP2\200113137_Sillones\obj\Debug\200113137_Sillones.pdb
